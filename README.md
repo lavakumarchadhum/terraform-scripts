@@ -1,1 +1,1 @@
-# terraform-scripts
+# terraform-scripts for azure services
