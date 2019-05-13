@@ -1,8 +1,8 @@
 provider "azurerm" {
-  client_id = "5483979a-7f59-4bc3-88f7-d51c02e99871"
-  client_secret = "113cd6e6-0245-47a4-a1be-603c36b9e1da"
-  subscription_id = "21500eca-7a48-4440-9881-ad9627650c0d"
-  tenant_id = "d4e93350-655a-4ddf-bb95-9a244e4256a7"
+  client_id = ""
+  client_secret = ""
+  subscription_id = ""
+  tenant_id = ""
 }
 resource "azurerm_resource_group" "test" {
   name     = "laav3mresources"
